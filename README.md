@@ -2,21 +2,21 @@
 
 Scholarscope Analytical Board
 
-Introduction
-Story of data
-Data splitting and preprocessing
-Pre-analysis
-In-analysis
-Post-analysis and insight
-Data visualization and charts
-Recommendation and observation
-Conclusion
-References and appendices
+1. Introduction
+2. Story of data
+3. Data splitting and preprocessing
+4. Pre-analysis
+5. In-analysis
+6. Post-analysis and insight
+7. Data visualization and charts
+8. Recommendation and observation
+9. Conclusion
+10. References and appendices
 
-Introduction
+Introduction:
 This report presents a technical analysis of data from the Scholarscope Analytical Board, which covers 1,000 students. The analysis explores the relationship between academic performance and key variables such as gender, study and social media habits, parental education, part-time job status, and diet quality. The purpose is to uncover trends and correlations that can guide educational institutions and policymakers in improving student outcomes.
 
-Story of the Data
+Story of the Data:
 The Scholarscope data reveals the academic and lifestyle patterns of 1,000 students. On average, students scored 69.60 in exams, studied 3.55 hours/day, and spent 2.51 hours/day on social media. Interestingly, those whose parents had a high school or bachelor's education performed better academically and used social media more than others.
 Female students studied slightly more and had higher scores than males, while students doing part-time jobs had lower attendance rates, suggesting a negative impact on academic consistency.
 Importantly, diet quality strongly influenced mental health - students with fair or good diets reported better well-being, while those with poor diets had the lowest mental health ratings.
